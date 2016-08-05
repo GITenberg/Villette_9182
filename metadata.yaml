@@ -1,0 +1,54 @@
+_repo: Villette_9182
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brontë, Charlotte
+    aliases:
+    - Bell, Currer
+    - Charlotte Brontë
+    - Bronte, Charlotte
+    birthdate: 1816
+    deathdate: 1855
+    gutenberg_agent_id: '408'
+    url: http://www.gutenberg.org/2009/agents/408
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Brontë
+description: "Villette /viːˈlɛt/ is an 1853 novel written by English author Charlotte\
+  \ Brontë. After an unspecified family disaster, the protagonist Lucy Snowe travels\
+  \ from her native England to the fictional French-speaking city of Villette to teach\
+  \ at a girls' school, where she is drawn into adventure and romance.\nVillette was\
+  \ Charlotte Brontë's fourth novel; it was preceded by and is a reworking of the\
+  \ posthumously published The Professor, her first novel, and then by Jane Eyre and\
+  \ Shirley.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9182'
+  wikidata: Q2449570
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Belgium -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Brussels (Belgium) -- Fiction'
+- !lcsh 'Women teachers -- Fiction'
+- GITenberg
+title: Villette
+url: http://www.gutenberg.org/ebooks/9182
+wikipedia:
+- https://fi.wikipedia.org/wiki/Syrj%C3%A4st%C3%A4katsojan_tarina
+- https://fr.wikipedia.org/wiki/Villette_(roman)
+- https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D9%84%D9%8A%D8%AA_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://pt.wikipedia.org/wiki/Villette_(livro)
+- https://cs.wikipedia.org/wiki/Villette
+- https://fa.wikipedia.org/wiki/%D9%88%DB%8C%D9%84%D8%AA_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://ru.wikiquote.org/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://simple.wikipedia.org/wiki/Villette
+- https://en.wikipedia.org/wiki/Villette_(novel)
+- https://it.wikipedia.org/wiki/Villette_(romanzo)
+- https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://sv.wikipedia.org/wiki/Villette
+- https://pl.wikiquote.org/wiki/Villette
