@@ -1,5 +1,8 @@
 _repo: Villette_9182
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brontë, Charlotte
@@ -19,6 +22,8 @@ description: "Villette /viːˈlɛt/ is an 1853 novel written by English author C
   \ Charlotte Brontë's fourth novel; it was preceded by and is a reworking of the\
   \ posthumously published The Professor, her first novel, and then by Jane Eyre and\
   \ Shirley.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9182#Villette
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
