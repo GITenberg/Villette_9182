@@ -13,6 +13,7 @@ Author: Charlotte Brontë
 Posting Date: August 23, 2010 [EBook #9182]
 Release Date: October, 2005
 First Posted: September 12, 2003
+[Last updated: March 2, 2016]
 
 Language: English
 
@@ -336,7 +337,7 @@ strings, hooks and eyes, offered difficulties which she encountered
 with a perseverance good to witness. She folded her night-dress, she
 smoothed the drapery of her couch quite neatly; withdrawing into a
 corner, where the sweep of the white curtain concealed her, she became
-still. I half rose, and advanced my, head to see how she was occupied.
+still. I half rose, and advanced my head to see how she was occupied.
 On her knees, with her forehead bent on her hands, I perceived that she
 was praying.
 
@@ -467,7 +468,7 @@ vanished, and in its place appeared a sudden eagerness, an intense
 expectancy. "It _is_!" were her words.
 
 Like a bird or a shaft, or any other swift thing, she was gone from the
-room, How she got the house-door open I cannot tell; probably it might
+room. How she got the house-door open I cannot tell; probably it might
 be ajar; perhaps Warren was in the way and obeyed her behest, which
 would be impetuous enough. I--watching calmly from the window--saw her,
 in her black frock and tiny braided apron (to pinafores she had an
@@ -815,7 +816,7 @@ face in Mr. Home's waistcoat.
 
 "I'll not be sent away," said Graham.
 
-With face still averted, she held out her hand to keep him off
+With face still averted, she held out her hand to keep him off.
 
 "Then, I shall kiss the hand," said he; but that moment it became a
 miniature fist, and dealt him payment in a small coin that was not
@@ -1232,7 +1233,7 @@ strangely rash; exciting the feeling one might experience on seeing an
 animal dangerous by nature, and but half-tamed by art, too heedlessly
 fondled. Not that I feared Graham would hurt, or very roughly check
 her; but I thought she ran risk of incurring such a careless, impatient
-repulse, as would be worse almost to her than a blow. On: the whole,
+repulse, as would be worse almost to her than a blow. On the whole,
 however, these demonstrations were borne passively: sometimes even a
 sort of complacent wonder at her earnest partiality would smile not
 unkindly in his eyes. Once he said:--"You like me almost as well as if
@@ -1361,7 +1362,7 @@ fulfilled, when I discovered her, all cold and vigilant, perched like a
 white bird on the outside of the bed. I scarcely knew how to accost
 her; she was not to be managed like another child. She, however,
 accosted me. As I closed the door, and put the light on the
-dressing-table, she turned tome with these words:--"I cannot--_cannot_
+dressing-table, she turned to me with these words:--"I cannot--_cannot_
 sleep; and in this way I cannot--_cannot_ live!"
 
 I asked what ailed her.
@@ -1746,7 +1747,7 @@ neared ten; he rarely tarried later than this, but once or twice he had
 been delayed so long.
 
 "Would he for once fail me? No--not even for once; and now he was
-coming--and coming fast-to atone for lost time. 'Frank! you furious
+coming--and coming fast--to atone for lost time. 'Frank! you furious
 rider,' I said inwardly, listening gladly, yet anxiously, to his
 approaching gallop, 'you shall be rebuked for this: I will tell you it
 is _my_ neck you are putting in peril; for whatever is yours is, in a
@@ -1759,7 +1760,7 @@ how could I utter the feeling which rose in my soul?
 
 "I could only run out. A great animal--truly, Frank's black
 horse--stood trembling, panting, snorting before the door; a man held
-it Frank, as I thought.
+it, Frank, as I thought.
 
 "'What is the matter?' I demanded. Thomas, my own servant, answered by
 saying sharply, 'Go into the house, madam.' And then calling to another
@@ -1994,7 +1995,7 @@ come? Whither should I go? What should I do?
 
 I wet the pillow, my arms, and my hair, with rushing tears. A dark
 interval of most bitter thought followed this burst; but I did not
-regret the step taken, nor wish to retract it A strong, vague
+regret the step taken, nor wish to retract it. A strong, vague
 persuasion that it was better to go forward than backward, and that I
 _could_ go forward--that a way, however narrow and difficult, would in
 time open--predominated over other feelings: its influence hushed them
@@ -3429,7 +3430,7 @@ night, broad strong eyebrows, decided features, and a dark, mutinous,
 sinister eye: I noted that she sat close by a little door, which door,
 I was well aware, opened into a small closet where books were kept. She
 was standing up for the purpose of conducting her clamour with freer
-energies. I measured her stature and calculated her strength She seemed
+energies. I measured her stature and calculated her strength. She seemed
 both tall and wiry; but, so the conflict were brief and the attack
 unexpected, I thought I might manage her.
 
@@ -4471,7 +4472,7 @@ There went a tradition that Madame Beck's house had in old days been a
 convent. That in years gone by--how long gone by I cannot tell, but I
 think some centuries--before the city had over-spread this quarter, and
 when it was tilled ground and avenue, and such deep and leafy seclusion
-as ought to embosom a religious house-that something had happened on
+as ought to embosom a religious house--that something had happened on
 this site which, rousing fear and inflicting horror, had left to the
 place the inheritance of a ghost-story. A vague tale went of a black
 and white nun, sometimes, on some night or nights of the year, seen in
@@ -4909,7 +4910,7 @@ recommenced) was a venerable volume, old as the hills--grey as the
 Hôtel de Ville.
 
 I would have given two francs for the chance of getting that book once
-into my bands, turning over the sacred yellow leaves, ascertaining the
+into my hands, turning over the sacred yellow leaves, ascertaining the
 title, and perusing with my own eyes the enormous figments which, as an
 unworthy heretic, it was only permitted me to drink in with my
 bewildered ears. This book contained legends of the saints. Good God!
@@ -5121,7 +5122,7 @@ very words I should so much have wished to say, but had no address or
 courage to bring it out: how short some people make the road to a point
 which, for others, seems unattainable!
 
-"That may be my secret," rejoined Dr. John briefly, but with no, sort
+"That may be my secret," rejoined Dr. John briefly, but with no sort
 of hauteur: he seemed quite to understand the Rosine or grisette
 character.
 
@@ -5659,7 +5660,7 @@ diamond in the rough; the other was a butterfly, a talker, and a
 traitor: and I was to be the butterfly, talker, and traitor.
 
 I did my best--which was bad, I know: it provoked M. Paul; he fumed.
-Putting both--hands to the work, I endeavoured to do better than my
+Putting both hands to the work, I endeavoured to do better than my
 best; I presume he gave me credit for good intentions; he professed to
 be partially content. "Ca ira!" he cried; and as voices began sounding
 from the garden, and white dresses fluttering among the trees, he
@@ -5950,11 +5951,11 @@ form--that of Dr. John.
 
 The spectacle seemed somehow suggestive. There was language in Dr.
 John's look, though I cannot tell what he said; it animated me: I drew
-out of it a history; I put my idea into the part I per formed; I threw
+out of it a history; I put my idea into the part I performed; I threw
 it into my wooing of Ginevra. In the "Ours," or sincere lover, I saw
 Dr. John. Did I pity him, as erst? No, I hardened my heart, rivalled
 and out-rivalled him. I knew myself but a fop, but where _he_ was
-outcast _I_ could please. Now I know acted as if wishful and resolute
+outcast _I_ could please. Now I know I acted as if wishful and resolute
 to win and conquer. Ginevra seconded me; between us we half-changed the
 nature of the _rôle_, gilding it from top to toe. Between the acts M.
 Paul, told us he knew not what possessed us, and half expostulated.
@@ -6185,7 +6186,7 @@ amusement into the merits of which I don't quite enter; pray on whom
 does your vanity lead you to think you have done execution to-night?"
 
 She approached her lips to my ear--"Isidore and Alfred de Hamal are
-both here?" she whispered.
+both here," she whispered.
 
 "Oh! they are? I should like to see them."
 
@@ -6784,7 +6785,7 @@ wet days, of which the hours rushed on all turbulent, deaf,
 dishevelled--bewildered with sounding hurricane--I lay in a strange
 fever of the nerves and blood. Sleep went quite away. I used to rise in
 the night, look round for her, beseech her earnestly to return. A
-rattle of the window, a cry of the blast only replied---Sleep never
+rattle of the window, a cry of the blast only replied--Sleep never
 came!
 
 I err. She came once, but in anger. Impatient of my importunity she
@@ -8392,7 +8393,7 @@ perfect, anymore than I am perfect. Human fallibility leavened him
 throughout: there was no hour, and scarcely a moment of the time I
 spent with him that in act or speech, or look, he did not betray
 something that was not of a god. A god could not have the cruel vanity
-of Dr. John, nor his sometime levity., No immortal could have resembled
+of Dr. John, nor his sometime levity. No immortal could have resembled
 him in his occasional temporary oblivion of all but the present--in his
 passing passion for that present; shown not coarsely, by devoting it to
 material indulgence, but selfishly, by extracting from it whatever it
@@ -9047,7 +9048,7 @@ and grand assemblage, arranging, restraining, over-aweing about one
 hundred young ladies. He was, too, so perfectly in earnest--so
 energetic, so intent, and, above all, so absolute: and yet what
 business had he there? What had he to do with music or the
-Conservatoire—he who could hardly distinguish one note from another? I
+Conservatoire--he who could hardly distinguish one note from another? I
 knew that it was his love of display and authority which had brought
 him there--a love not offensive, only because so naive. It presently
 became obvious that his brother, M. Josef, was as much under his
@@ -9234,7 +9235,7 @@ He then proceeded to make some further remarks, with so much equanimity
 and composure that I began to think he had really not seen what I had
 seen, and I whispered--"Miss Fanshawe is here: have you noticed her?"
 
-"Oh, yes! and I observed that you noticed her too?"
+"Oh, yes! and I observed that you noticed her too."
 
 "Is she come with Mrs. Cholmondeley, do you think?"
 
@@ -9929,7 +9930,7 @@ him vex the passionate to explosion before now. In me his malice should
 find no gratification; I sat silent.
 
 "You look," said he, "like one who would snatch at a draught of sweet
-poison, and spurn wholesome bitters with disgust.
+poison, and spurn wholesome bitters with disgust."
 
 "Indeed, I never liked bitters; nor do I believe them wholesome. And to
 whatever is sweet, be it poison or food, you cannot, at least, deny its
@@ -10099,7 +10100,7 @@ what he said: I saw he was terribly cut up."
 "He said you looked as if at heart you were already Madame de Hamal."
 
 "Did he?" she cried with delight. "He noticed that? How charming! I
-thought he would be mad with jealousy?"
+thought he would be mad with jealousy.
 
 "Ginevra, have you seriously done with Dr. Bretton? Do you want him to
 give you up?"
@@ -10391,7 +10392,7 @@ made merry by the liberty of the closing hour, and, above all, solaced
 at heart by the joyous consciousness of that treasure in the case, box,
 drawer up-stairs,--I fell to playing with the handkerchief as if it
 were a ball, casting it into the air and catching it--as it fell. The
-game was stopped by another hand than mine-a hand emerging from a
+game was stopped by another hand than mine--a hand emerging from a
 paletôt-sleeve and stretched over my shoulder; it caught the
 extemporised plaything and bore it away with these sullen words:
 
@@ -10523,7 +10524,7 @@ urged them to go to the grenier; the sight of the gentlemen did me good
 and gave me courage: it seemed as if there were some help and hope,
 with men at hand. I turned to the door, beckoning them to follow. They
 wanted to stop me, but I said they must come this way: they must see
-what I had seen---something strange, standing in the middle of the
+what I had seen--something strange, standing in the middle of the
 garret. And, now, I remembered my letter, left on the drawers with the
 light. This precious letter! Flesh or spirit must be defied for its
 sake. I flew up-stairs, hastening the faster as I knew I was followed:
@@ -10659,7 +10660,7 @@ tongue and eye; but you never saw that in me--did you, Lucy?"
 "Indeed--indeed--when you were a mere boy I used to see both: far more
 then than now--for now you are strong, and strength dispenses with
 subtlety. But still,--Dr. John, you have what they call in this country
-'un air fin,' that nobody can, mistake. Madame Beck saw it, and---"
+'un air fin,' that nobody can, mistake. Madame Beck saw it, and--"
 
 "And liked it," said he, laughing, "because she has it herself. But,
 Lucy, give me that letter--you don't really care for it."
@@ -10994,7 +10995,7 @@ her to help me. Rosine liked a bribe, so she did her best, smoothed and
 plaited my hair as well as a coiffeur would have done, placed the lace
 collar mathematically straight, tied the neck-ribbon accurately--in
 short, did her work like the neat-handed Phillis she could be when she
-those. Having given me my handkerchief and gloves, she took the candle
+chose. Having given me my handkerchief and gloves, she took the candle
 and lighted me down-stairs. After all, I had forgotten my shawl; she
 ran back to fetch it; and I stood with Dr. John in the vestibule,
 waiting.
@@ -11045,7 +11046,7 @@ shadow of a royal Vashti: a queen, fair as the day once, turned pale
 now like twilight, and wasted like wax in flame.
 
 For awhile--a long while--I thought it was only a woman, though an
-unique woman, Who moved in might and grace before this multitude.
+unique woman, who moved in might and grace before this multitude.
 By-and-by I recognised my mistake. Behold! I found upon her something
 neither of woman nor of man: in each of her eyes sat a devil. These
 evil forces bore her through the tragedy, kept up her feeble
@@ -11739,13 +11740,13 @@ afternoon, at which hour I will send the carriage to take you out to La
 Terrasse. Be sure to come: you may meet some old acquaintance. Good-by,
 my wise, dear, grave little god-daughter.--Very truly yours,
 
-"LOUISA BRETTON.".
+"LOUISA BRETTON."
 
 Now, a letter like that sets one to rights! I might still be sad after
 reading that letter, but I was more composed; not exactly cheered,
 perhaps, but relieved. My friends, at least, were well and happy: no
 accident had occurred to Graham; no illness had seized his
-mother-calamities that had so long been my dream and thought. Their
+mother--calamities that had so long been my dream and thought. Their
 feelings for me too were--as they had been. Yet, how strange it was to
 look on Mrs. Bretton's seven weeks and contrast them with my seven
 weeks! Also, how very wise it is in people placed in an exceptional
@@ -12356,7 +12357,7 @@ Bassompierre?"
 The Countess hemmed and hesitated. "I thought," said she, "I thought I
 had finished my education--"
 
-"That only proves how much we may be mistaken in our thoughts I hold a
+"That only proves how much we may be mistaken in our thoughts. I hold a
 far different opinion, as most of these will who have been auditors of
 your profound knowledge of life this morning. Ah, my little girl, thou
 hast much to learn; and papa ought to have taught thee more than he has
@@ -12498,7 +12499,7 @@ book--some illustrated work of natural history. Often had I seen her
 standing at Graham's side, resting that volume on his knee, and reading
 to his tuition; and, when the lesson was over, begging, as a treat,
 that he would tell her all about the pictures. I watched her keenly:
-here was a true test of that memory she had boasted would her
+here was a true test of that memory she had boasted; would her
 recollections now be faithful?
 
 Faithful? It could not be doubted. As she turned the leaves, over her
@@ -12541,7 +12542,7 @@ commands to take care of his precious health and come home early under
 my escort."
 
 "Yes, you must say a lady; and he will think it is his mother, and be
-obedient And, papa, mind to come soon, for I _shall_ watch and listen."
+obedient. And, papa, mind to come soon, for I _shall_ watch and listen."
 
 The door closed, and the carriage rolled softly through the snow; and
 back returned the Countess, pensive and anxious.
@@ -12573,7 +12574,7 @@ remained beside her father; Graham threw himself into a seat on the
 other side of the room.
 
 It was well that Mrs. Bretton and Mr. Home had a great deal to say to
-each other-almost an inexhaustible fund of discourse in old
+each other--almost an inexhaustible fund of discourse in old
 recollections; otherwise, I think, our party would have been but a
 still one that evening.
 
@@ -12641,7 +12642,7 @@ often very pithy thoughts, the generally sound, and sometimes original
 opinions, set, without pretension, in an easily-flowing, spirited
 style, appear to her? How did she like that genial, half humorous vein,
 which to me gave such delight? What did she think of the few kind words
-scattered here and there-not thickly, as the diamonds were scattered in
+scattered here and there--not thickly, as the diamonds were scattered in
 the valley of Sindbad, but sparely, as those gems lie in unfabled beds?
 Oh, Madame Beck! how seemed these things to you?
 
@@ -12867,7 +12868,7 @@ I was no bright lady's shadow--not Miss de Bassompierre's. Overcast
 enough it was my nature often to be; of a subdued habit I was: but the
 dimness and depression must both be voluntary--such as kept me docile
 at my desk, in the midst of my now well-accustomed pupils in Madame
-Beck's fist classe; or alone, at my own bedside, in her dormitory, or
+Beck's first classe; or alone, at my own bedside, in her dormitory, or
 in the alley and seat which were called mine, in her garden: my
 qualifications were not convertible, nor adaptable; they could not be
 made the foil of any gem, the adjunct of any beauty, the appendage of
@@ -13036,7 +13037,7 @@ his own machinations: elaborately contrive plots, and forthwith indulge
 in explanatory boasts of their skill. I know not whether I was more
 amused or provoked, by his stepping up to me one morning and whispering
 solemnly that he "had his eye on me: _he_ at least would discharge the
-duty of a friend, and not leave me entirely to my own devices. My,
+duty of a friend, and not leave me entirely to my own devices. My
 proceedings seemed at present very unsettled: he did not know what to
 make of them: he thought his cousin Beck very much to blame in
 suffering this sort of fluttering inconsistency in a teacher attached
@@ -13225,8 +13226,8 @@ THE HÔTEL CRÉCY.
 
 
 The morrow turned out a more lively and busy day than we--or than I, at
-least-had anticipated. It seems it was the birthday of one of the young
-princes of Labassecour-the eldest, I think, the Duc de Dindonneau, and
+least--had anticipated. It seems it was the birthday of one of the young
+princes of Labassecour--the eldest, I think, the Duc de Dindonneau, and
 a general holiday was given in his honour at the schools, and
 especially at the principal "Athénée," or college. The youth of that
 institution had also concocted, and were to present a loyal address;
@@ -13235,7 +13236,7 @@ where the yearly examinations were conducted, and the prizes
 distributed. After the ceremony of presentation, an oration, or
 "discours," was to follow from one of the professors.
 
-Several of M. de Bassompierre's friends-the savants-being more or less
+Several of M. de Bassompierre's friends--the savants--being more or less
 connected with the Athénée, they were expected to attend on this
 occasion; together with the worshipful municipality of Villette, M. le
 Chevalier Staas, the burgomaster, and the parents and kinsfolk of the
@@ -13548,7 +13549,7 @@ two-handed crack:" what the Count would have interpreted as a
 tête-à-tête. Graham smiled recognition, crossed the room, asked me how
 I was, told me I looked pale. I also had my own smile at my own
 thought: it was now about three months since Dr. John had spoken to
-me-a lapse of which he was not even conscious. He sat down, and became
+me--a lapse of which he was not even conscious. He sat down, and became
 silent. His wish was rather to look than converse. Ginevra and Paulina
 were now opposite to him: he could gaze his fill: he surveyed both
 forms--studied both faces.
@@ -14324,7 +14325,7 @@ Again I interrupted, and this time not without an accent at once
 indignant and horror-struck.
 
 "Scarlet, Monsieur Paul? It was not scarlet! It was pink, and pale pink
-to: and further subdued by black lace."
+too, and further subdued by black lace."
 
 "Pink or scarlet, yellow or crimson, pea-green or sky-blue, it was all
 one: these were all flaunting, giddy colours; and as to the lace I
@@ -14396,7 +14397,7 @@ your poor scattered sins of vanity, your luckless chiffon of
 rose-colour, your small fringe of a wreath, your small scrap of ribbon,
 your silly bit of lace, and calls you to account for the lot, and for
 each item. You are well habituated to be passed by as a shadow in
-Life's sunshine: it its a new thing to see one testily lifting his hand
+Life's sunshine: it is a new thing to see one testily lifting his hand
 to screen his eyes, because you tease him with an obtrusive ray."
 
 
@@ -14890,7 +14891,7 @@ you I was called Carl David?"
 "A little bird, Monsieur."
 
 "Does it fly from me to you? Then one can tie a message under its wing
-when needful.",
+when needful."
 
 He took out the chain--a trifle indeed as to value, but glossy with
 silk and sparkling with beads. He liked that too--admired it artlessly,
@@ -14939,7 +14940,7 @@ others what pleased himself, he would give his "dragées" as freely as
 he lent his books. Amongst the kind brownie's gifts left in my desk, I
 forgot to enumerate many a paper of chocolate comfits. His tastes in
 these matters were southern, and what we think infantine. His simple
-lunch consisted frequently of a "brioche," which, as often as not, to
+lunch consisted frequently of a "brioche," which, as often as not, he
 shared with some child of the third division.
 
 "A présent c'est un fait accompli," said he, re-adjusting his paletôt;
@@ -14999,7 +15000,7 @@ besides, his veins were dark with a livid belladonna tincture, the
 essence of jealousy. I do not mean merely the tender jealousy of the
 heart, but that sterner, narrower sentiment whose seat is in the head.
 
-I used to think, as I Sat looking at M. Paul, while he was knitting his
+I used to think, as I sat looking at M. Paul, while he was knitting his
 brow or protruding his lip over some exercise of mine, which had not as
 many faults as he wished (for he liked me to commit faults: a knot of
 blunders was sweet to him as a cluster of nuts), that he had points of
@@ -15205,7 +15206,7 @@ I had no pacifying answer to give. The terms were precisely such as
 Rosine--a young lady in whose skull the organs of reverence and reserve
 were not largely developed--was in the constant habit of using.
 Besides, what she said about the young doctor was true enough. Graham
-_was_ handsome; he had fine eyes and a thrilling: glance. An
+_was_ handsome; he had fine eyes and a thrilling glance. An
 observation to that effect actually formed itself into sound on my lips.
 
 "Elle ne dit que la vérité," I said.
@@ -15974,7 +15975,7 @@ stood."
 seem unhappy?"
 
 "Not she. To change the subject. Have you heard or seen nothing of, or
-from. Graham during your absence?"
+from, Graham during your absence?"
 
 "Papa had letters from him once or twice about business, I think. He
 undertook the management of some affair which required attention while
@@ -15988,7 +15989,7 @@ about his health?"
 "Papa seems to have thought with you. I could not help smiling. He is
 not particularly observant, you know, because he is often thinking of
 other things than what pass before his eyes; but he said, as Dr.
-Bretton rode away, `Really it does a man good to see the spirit and
+Bretton rode away, Really it does a man good to see the spirit and
 energy of that boy.' He called Dr. Bretton a boy; I believe he almost
 thinks him so, just as he thinks me a little girl; he was not speaking
 to me, but dropped that remark to himself. Lucy...."
@@ -16003,7 +16004,7 @@ only what was delicate, intelligent, and sincere; therefore my regard
 for her lay deep. An admiration more superficial might have been more
 demonstrative; mine, however, was quiet.
 
-"What have you to ask of Lucy?" said I; "be brave, and speak out"
+"What have you to ask of Lucy?" said I; "be brave, and speak out."
 
 But there was no courage in her eye; as it met mine, it fell; and there
 was no coolness on her cheek--not a transient surface-blush, but a
@@ -16214,7 +16215,7 @@ correspondence till your father knows all, and gives his sanction."
 
 "Dr. Bretton wrote one other letter, deeply grateful for my calm, brief
 note; but I anticipated your advice, by saying, that while my
-sentiments continued the same, I could not, without my fathers
+sentiments continued the same, I could not, without my father's
 knowledge, write again."
 
 "You acted as you ought to have done; so Dr. Bretton will feel: it will
@@ -16245,7 +16246,7 @@ susceptible than your nature in infancy: under harshness or neglect,
 neither your outward nor your inward self would have ripened to what
 they now are. Much pain, much fear, much struggle, would have troubled
 the very lines of your features, broken their regularity, would have
-harassed your nerves into the fever of habitual irritation you would
+harassed your nerves into the fever of habitual irritation; you would
 have lost in health and cheerfulness, in grace and sweetness.
 Providence has protected and cultured you, not only for your own sake,
 but I believe for Graham's. His star, too, was fortunate: to develop
@@ -16434,7 +16435,7 @@ did not keep pace with his lips."
 circumstances. But just now, there is no question of dictation; I mean
 to make you useful in another office. Do you see yonder farm-house?"
 
-"Surrounded with trees? Yes.".
+"Surrounded with trees? Yes."
 
 "There we are to breakfast; and while the good fermière makes the café
 au lait in a caldron, you and five others, whom I shall select, will
@@ -17322,7 +17323,7 @@ morally certain, were the very heroes who had driven a friendless
 foreigner beyond her reckoning and her strength, chased her breathless
 over a whole quarter of the town.
 
-"Pious mentors!" thought I. "Pure guides for youth! If `Human Justice'
+"Pious mentors!" thought I. "Pure guides for youth! If Human Justice'
 were what she ought to be, you two would scarce hold your present post,
 or enjoy your present credit."
 
@@ -17336,7 +17337,7 @@ cure, redress. The honest woman cared for none of these things. She had
 a warm seat of her own by the fire, she had her own solace in a short
 black pipe, and a bottle of Mrs. Sweeny's soothing syrup; she smoked
 and she sipped, and she enjoyed her paradise; and whenever a cry of the
-suffering souls about her 'pierced her ears too keenly--my jolly dame
+suffering souls about her pierced her ears too keenly--my jolly dame
 seized the poker or the hearth-brush: if the offender was weak,
 wronged, and sickly, she effectually settled him: if he was strong,
 lively, and violent, she only menaced, then plunged her hand in her
@@ -17517,7 +17518,7 @@ heaping coals of fire on his adversary's head."
 "Nearly all, I think: I have indicated the heads of Père Silas's
 chapters."
 
-"You have forgotten one-that which touched on the pupil's lack of
+"You have forgotten one--that which touched on the pupil's lack of
 affection--on his hard, cold, monkish heart."
 
 "True; I remember now. Père Silas _did_ say that his vocation was
@@ -17634,7 +17635,7 @@ superstitious; these morbid fancies will not beset _you?_"
 natural solution of this seeming mystery will one day be arrived at."
 
 "Doubtless, doubtless. Besides, no good-living woman--much less a pure,
-happy spirit-would trouble amity like ours n'est-il pas vrai?"
+happy spirit--would trouble amity like ours n'est-il pas vrai?"
 
 Ere I could answer, Fifine Beck burst in, rosy and abrupt, calling out
 that I was wanted. Her mother was going into town to call on some
@@ -18120,7 +18121,7 @@ bade me judge the tree by its fruits.
 
 In answer, I felt and I avowed that these works were _not_ the fruits
 of Rome; they were but her abundant blossoming, but the fair promise
-she showed the world, That bloom, when set, savoured not of charity;
+she showed the world, that bloom when set, savoured not of charity;
 the apple full formed was ignorance, abasement, and bigotry. Out of
 men's afflictions and affections were forged the rivets of their
 servitude. Poverty was fed and clothed, and sheltered, to bind it by
@@ -18232,7 +18233,7 @@ CHAPTER XXXVII.
 SUNSHINE.
 
 
-It was very, well for Paulina to decline further correspondence with
+It was very well for Paulina to decline further correspondence with
 Graham till her father had sanctioned the intercourse. But Dr. Bretton
 could not live within a league of the Hôtel Crécy, and not contrive to
 visit there often. Both lovers meant at first, I believe, to be
@@ -20002,7 +20003,7 @@ interest--I could make out no more than that some scheme was on foot,
 in which this ghostly Justine Marie--dead or alive--was concerned. This
 family-junta seemed grasping at her somehow, for some reason; there
 seemed question of a marriage, of a fortune--for whom I could not quite
-make out-perhaps for Victor Kint, perhaps for Josef Emanuel--both were
+make out--perhaps for Victor Kint, perhaps for Josef Emanuel--both were
 bachelors. Once I thought the hints and jests rained upon a young
 fair-haired foreigner of the party, whom they called Heinrich Mühler.
 Amidst all the badinage, Madame Walravens still obtruded from time to
@@ -20786,7 +20787,7 @@ hesitatingly. "'All these weary days' I have not for one hour forgotten
 you. Faithful women err in this, that they think themselves the sole
 faithful of God's creatures. On a very fervent and living truth to
 myself, I, too, till lately scarce dared count, from any quarter;
-but----look at me.",
+but----look at me."
 
 I lifted my happy eyes: they _were_ happy now, or they would have been
 no interpreters of my heart.
@@ -20919,7 +20920,7 @@ I found myself in a good-sized apartment, scrupulously clean, though
 bare, compared with those I had hitherto seen. The well-scoured boards
 were carpetless; it contained two rows of green benches and desks, with
 an alley down the centre, terminating in an estrade, a teacher's chair
-and table; behind them a tableau, On the walls hung two maps; in the
+and table; behind them a tableau. On the walls hung two maps; in the
 windows flowered a few hardy plants; in short, here was a miniature
 classe--complete, neat, pleasant.
 
@@ -21011,7 +21012,7 @@ since morning, he needed refreshment; he said I should offer him
 chocolate in my pretty gold and white china service. He went out and
 ordered what was needful from the restaurant; he placed the small
 guéridon and two chairs in the balcony outside the French window under
-the screening vines. With what shy joy i accepted my part as hostess,
+the screening vines. With what shy joy I accepted my part as hostess,
 arranged the salver, served the benefactor-guest.
 
 This balcony was in the rear of the house, the gardens of the faubourg
@@ -21306,7 +21307,7 @@ some of them are yet in bloom. I thought I loved him when he went away;
 I love him now in another degree: he is more my own.
 
 The sun passes the equinox; the days shorten, the leaves grow sere;
-but---he is coming.
+but--he is coming.
 
 Frosts appear at night; November has sent his fogs in advance; the wind
 takes its autumn moan; but--he is coming.
